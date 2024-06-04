@@ -1,0 +1,82 @@
+.title {
+  font-size: 1.5rem;
+  color: black;
+  text-align: center;
+  padding: 5px;
+  font-family: cursive;
+}
+
+h4 {
+  font-weight: 100;
+  font-size: 15px;
+}
+
+hr {
+  width: 100%;
+  border: 3px solid black;
+  padding: auto;
+  margin: auto;
+}
+
+.background {
+  background-image: url(./img/mockup-graphics-CtowID5OMzU-unsplash.jpg);
+}
+.container {
+  background-color: antiquewhite;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 500px;
+  border: 3px solid black;
+  height: 100vh;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 700;
+  text-decoration: underline 2px solid black;
+}
+
+.coffee-image {
+  text-align: center;
+  font-size: 30px;
+  color: sienna;
+}
+
+.price {
+  float: right;
+  font-weight: 900;
+}
+
+.flavor {
+  font-weight: 900;
+  color: sienna;
+  text-decoration: underline 2px solid black;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background: antiquewhite;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.zrow {
+  padding: 10px;
+}
+
+.pratice {
+  padding-top: 10px;
+  margin: 0;
+}
+
+.continue {
+  padding-top: 200px;
+}
